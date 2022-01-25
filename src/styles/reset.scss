@@ -1,0 +1,15 @@
+a {
+  text-decoration: none;
+}
+
+button {
+  border-style: none;
+  background-color: transparent;
+  font-family: inherit;
+  padding: 0;
+  cursor: pointer;
+
+  // @media screen and (-ms-high-contrast: active) {
+  //   border: 2px solid currentcolor;
+  // }
+}

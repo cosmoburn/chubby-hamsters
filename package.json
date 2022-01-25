@@ -16,15 +16,26 @@
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
+    "@fontsource/fredoka-one": "^4.5.0",
+    "@fontsource/raleway": "^4.5.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "add": "^2.0.6",
     "gatsby": "^4.5.4",
     "gatsby-plugin-emotion": "^7.5.0",
     "gatsby-plugin-image": "^2.5.2",
     "gatsby-plugin-react-helmet": "^5.5.0",
+    "gatsby-plugin-sass": "^5.5.0",
     "gatsby-plugin-sharp": "^4.5.2",
     "gatsby-source-filesystem": "^4.5.2",
     "gatsby-transformer-sharp": "^4.5.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "react-slick": "^0.28.1",
+    "sass": "^1.49.0",
+    "slick-carousel": "^1.8.1",
+    "yarn": "^1.22.17"
   }
 }

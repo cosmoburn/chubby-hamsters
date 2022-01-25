@@ -1,0 +1,24 @@
+@import './constants.scss';
+
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-family: "Fredoka One";
+  font-size: 2.5rem;
+  color: var(--colors-h1);
+  letter-spacing: 1px;
+  margin: .5rem 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: var(--colors-h2);
+  margin: 0;
+}
+
+p {
+  font-size: 1.25rem;
+  color: #999
+}
